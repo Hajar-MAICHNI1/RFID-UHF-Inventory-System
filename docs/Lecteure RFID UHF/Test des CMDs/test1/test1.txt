@@ -1,0 +1,29 @@
+## 🧪 Comment tester
+```
+1. Upload le code
+2. Ouvre Serial Monitor → 115200
+3. Tape le chiffre et appuie Entrée :
+
+"1" → Ping  
+      Réponse attendue : CF 00 00 50 01 00 ...
+      
+"2" → Infos lecteur  
+      Réponse : firmware + hardware version
+      
+"3" → Stop inventaire
+      Réponse : CF 00 00 02 01 00 ...
+      
+"4" → Relais s'active 3 secondes !
+      LED bleue s'allume 3s ✅
+```
+
+---
+
+## 📋 Tableau des commandes disponibles
+```
+Chiffre  CMD HEX   Fonction
+───────  ────────  ────────────────────────
+1        00 50     Ping / Initialize
+2        00 70     Infos lecteur (version)
+3        00 02     Stop inventaire
+4        00 77     Activer relais

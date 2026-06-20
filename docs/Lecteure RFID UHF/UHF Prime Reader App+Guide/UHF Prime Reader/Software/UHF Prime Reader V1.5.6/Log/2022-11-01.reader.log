@@ -1,0 +1,23 @@
+[2022-11-01 16:50:07,045]-[1]-[INFO]-[YYF100.Program+StartService]-[Start] -> Starting log.Info....
+[2022-11-01 16:50:07,084]-[1]-[ERROR]-[YYF100.Program+StartService]-[Start] -> Starting log.Error....
+[2022-11-01 16:50:11,875]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 阅读器打开成功，串口号：COM3
+[2022-11-01 16:50:12,007]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-01 16:50:12,032]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 读取参数成功
+[2022-11-01 16:50:15,027]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-01 16:50:15,033]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 读取参数成功
+[2022-11-01 16:50:16,155]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-01 16:50:16,161]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 读取参数成功
+[2022-11-01 16:50:18,482]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-01 16:50:18,490]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 读取参数成功
+[2022-11-01 16:50:22,698]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-01 16:50:22,705]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 读取参数成功
+[2022-11-01 16:50:24,601]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-01 16:50:24,759]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 设置参数成功:
+[2022-11-01 16:50:29,148]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-01 16:50:29,308]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 设置参数成功:
+[2022-11-01 16:50:30,043]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-01 16:50:30,052]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 读取参数成功
+[2022-11-01 16:50:30,875]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-01 16:50:30,885]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 读取参数成功
+[2022-11-01 16:50:39,636]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-01 16:50:39,795]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 设置参数成功:

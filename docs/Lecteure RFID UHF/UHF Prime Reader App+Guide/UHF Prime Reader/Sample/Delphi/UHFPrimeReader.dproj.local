@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.996,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.687,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit5.pas=D:\开发资料\外包开发\外包\猪八戒_Delphi_C++dll_UHF Prime Reader\untMain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.687,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit5.dfm=D:\开发资料\外包开发\外包\猪八戒_Delphi_C++dll_UHF Prime Reader\untMain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.000,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\开发资料\外包开发\外包\猪八戒_Delphi_C++dll_UHF Prime Reader\UHFPrimeReader.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.923,=D:\开发资料\外包开发\外包\猪八戒_Delphi_C++dll_UHF Prime Reader\UAC.rc</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.412,=D:\开发资料\外包开发\外包\猪八戒_Delphi_C++dll_UHF Prime Reader\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.972,D:\开发资料\外包开发\外包\猪八戒_Delphi_C++dll_UHF Prime Reader\untThreadWork.pas=D:\开发资料\外包开发\外包\猪八戒_Delphi_C++dll_UHF Prime Reader\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

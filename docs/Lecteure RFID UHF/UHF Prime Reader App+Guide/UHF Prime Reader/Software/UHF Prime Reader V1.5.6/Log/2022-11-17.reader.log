@@ -1,0 +1,22 @@
+[2022-11-17 15:45:29,930]-[1]-[INFO]-[YYF100.Program+StartService]-[Start] -> Starting log.Info....
+[2022-11-17 15:45:29,974]-[1]-[ERROR]-[YYF100.Program+StartService]-[Start] -> Starting log.Error....
+[2022-11-17 15:45:34,342]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 阅读器打开成功，串口号：COM3
+[2022-11-17 15:45:36,482]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 关闭阅读器
+[2022-11-17 15:45:36,558]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 断开阅读器连接
+[2022-11-17 15:45:36,560]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> 获取协议失败：
+[2022-11-17 15:45:45,343]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 阅读器打开成功，串口号：COM3
+[2022-11-17 15:45:45,469]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-17 15:45:45,503]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 读取参数成功
+[2022-11-17 15:47:05,377]-[1]-[INFO]-[YYF100.Program+StartService]-[Start] -> Starting log.Info....
+[2022-11-17 15:47:05,392]-[1]-[ERROR]-[YYF100.Program+StartService]-[Start] -> Starting log.Error....
+[2022-11-17 15:47:09,380]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 阅读器打开成功，串口号：COM3
+[2022-11-17 15:47:09,510]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取设备参数
+[2022-11-17 15:47:09,546]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 读取参数成功
+[2022-11-17 15:47:21,037]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 阅读器本地高级参数设置成功
+[2022-11-17 15:47:25,006]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 开始获取阅读器本地高级参数
+[2022-11-17 15:47:25,009]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取阅读器本地高级参数成功
+[2022-11-17 15:47:25,529]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 开始获取阅读器本地高级参数
+[2022-11-17 15:47:25,530]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取阅读器本地高级参数成功
+[2022-11-17 15:47:31,464]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 阅读器本地高级参数设置成功
+[2022-11-17 15:47:31,953]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 开始获取阅读器本地高级参数
+[2022-11-17 15:47:31,955]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> 获取阅读器本地高级参数成功

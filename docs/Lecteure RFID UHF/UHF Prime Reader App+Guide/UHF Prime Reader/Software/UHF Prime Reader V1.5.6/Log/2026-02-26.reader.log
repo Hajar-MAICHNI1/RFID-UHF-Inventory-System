@@ -1,0 +1,54 @@
+[2026-02-26 12:03:56,349]-[1]-[INFO]-[YYF100.Program+StartService]-[Start] -> Starting log.Info....
+[2026-02-26 12:03:56,362]-[1]-[ERROR]-[YYF100.Program+StartService]-[Start] -> Starting log.Error....
+[2026-02-26 12:04:15,869]-[1]-[INFO]-[YYF100.Program+StartService]-[Start] -> Starting log.Info....
+[2026-02-26 12:04:15,886]-[1]-[ERROR]-[YYF100.Program+StartService]-[Start] -> Starting log.Error....
+[2026-02-26 12:07:15,993]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> The reader is opened successfully, the serial port number:COM7
+[2026-02-26 12:07:18,260]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Close the reader
+[2026-02-26 12:07:18,393]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Reader Disconnected
+[2026-02-26 12:07:18,395]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to get protocol:
+[2026-02-26 12:08:05,811]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Close the reader
+[2026-02-26 12:08:54,877]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> The reader is opened successfully, the serial port number:COM7
+[2026-02-26 12:08:57,126]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Close the reader
+[2026-02-26 12:08:57,261]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Reader Disconnected
+[2026-02-26 12:08:57,269]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to get protocol:
+[2026-02-26 12:09:46,645]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> The reader is opened successfully, the serial port number:COM7
+[2026-02-26 12:09:47,095]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Get device parameters
+[2026-02-26 12:09:47,156]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to get reader parameters:
+[2026-02-26 12:10:05,417]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Close the reader
+[2026-02-26 12:10:55,550]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> The reader is opened successfully, the serial port number:COM7
+[2026-02-26 12:10:57,792]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Close the reader
+[2026-02-26 12:10:57,929]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Reader Disconnected
+[2026-02-26 12:10:57,933]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to get protocol:
+[2026-02-26 12:11:03,662]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> The reader is opened successfully, the serial port number:COM7
+[2026-02-26 12:11:05,944]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Close the reader
+[2026-02-26 12:11:06,081]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Reader Disconnected
+[2026-02-26 12:11:06,085]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to get protocol:
+[2026-02-26 12:11:09,841]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Close the reader
+[2026-02-26 12:11:10,765]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> The reader is opened successfully, the serial port number:COM7
+[2026-02-26 12:11:11,204]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Get device parameters
+[2026-02-26 12:11:11,250]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to get reader parameters:
+[2026-02-26 12:11:35,935]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Finished reading
+[2026-02-26 12:12:17,683]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Get device parameters
+[2026-02-26 12:12:17,730]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to set parameters:
+[2026-02-26 12:12:30,633]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Get device parameters
+[2026-02-26 12:12:30,680]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to set parameters:
+[2026-02-26 12:12:39,394]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Set device Release_Realy
+[2026-02-26 12:12:39,418]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Set device Release_Realy Success
+[2026-02-26 12:12:41,705]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Get device parameters
+[2026-02-26 12:12:41,751]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to set parameters:
+[2026-02-26 12:12:43,937]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Get device parameters
+[2026-02-26 12:12:44,012]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to get reader parameters:
+[2026-02-26 12:13:16,103]-[1]-[INFO]-[YYF100.Program+StartService]-[Stop] -> Stopping log.Info....
+[2026-02-26 12:13:16,103]-[1]-[ERROR]-[YYF100.Program+StartService]-[Stop] -> Stopping log.Error....
+[2026-02-26 12:13:55,201]-[1]-[INFO]-[YYF100.Program+StartService]-[Start] -> Starting log.Info....
+[2026-02-26 12:13:55,201]-[1]-[ERROR]-[YYF100.Program+StartService]-[Start] -> Starting log.Error....
+[2026-02-26 12:14:09,841]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> The reader is opened successfully, the serial port number:COM7
+[2026-02-26 12:14:10,313]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Get device parameters
+[2026-02-26 12:14:10,358]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to get reader parameters:
+[2026-02-26 12:15:05,708]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Get device parameters
+[2026-02-26 12:15:05,762]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to set parameters:
+[2026-02-26 12:15:12,122]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Get device parameters
+[2026-02-26 12:15:12,169]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to set parameters:
+[2026-02-26 12:15:15,599]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> The reader is restored to default settings successfully
+[2026-02-26 12:15:18,610]-[1]-[INFO]-[YYF100.FrmMain]-[WriteLog] -> Get device parameters
+[2026-02-26 12:15:20,641]-[1]-[ERROR]-[YYF100.FrmMain]-[WriteLog] -> Failed to get reader parameters:

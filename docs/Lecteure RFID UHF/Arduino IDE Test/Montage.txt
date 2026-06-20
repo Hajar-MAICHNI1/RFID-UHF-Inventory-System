@@ -1,0 +1,35 @@
+================================================================
+        UHF RFID READER — CONNECTION NOTES
+================================================================
+
+STEP 1 : RFID Reader → MAX3232 (via DB9 RS232 cable)
+----------------------------------------------------------------
+The UHF RFID Reader communicates via RS232 protocol.
+Since Arduino/ESP32 uses TTL (3.3V/5V), we need a 
+MAX3232 converter to bridge the two.
+
+  RFID Reader (DB9)       MAX3232
+  -----------------       -------
+  Pin 2 (RX)    ───────→  Pin 3 (TX)
+  Pin 3 (TX)    ───────→  Pin 2 (RX)
+  Pin 5 (GND)   ───────→  GND
+
+NOTE : TX and RX must be crossed !
+       TX of reader → RX of MAX3232
+       RX of reader → TX of MAX3232
+
+----------------------------------------------------------------
+STEP 2 : MAX3232 → Arduino UNO
+----------------------------------------------------------------
+
+  MAX3232         Arduino UNO
+  -------         -----------
+  RXD    ───────→ Pin 10 (SoftwareSerial RX)
+  TXD    ←─────── Pin 11 (SoftwareSerial TX)
+  GND    ───────→ GND
+  VCC    ───────→ 5V
+
+NOTE : Arduino UNO uses SoftwareSerial on pins 10 and 11
+       because pins 0 and 1 are reserved for USB.
+
+================================================================
