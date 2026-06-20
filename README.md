@@ -1,8 +1,6 @@
 # 🏨 Système de Traçabilité RFID UHF pour Hôtels
 
 Solution automatisée et accessible pour réduire les pertes d'équipements hôteliers.
-**Coût 450 USD vs 5,000-15,000 USD** pour solutions commerciales.
-
 ---
 
 ## ✨ Caractéristiques Principales
@@ -154,7 +152,7 @@ Tag → Query BD → Si VALIDE: LED verte | Si INVALIDE: LED rouge + alerte
 
 **MAICHNI Hajar**  
 Master Ingénierie Informatique et Systèmes Embarqués  
-FSA Ibn Zohr Agadir | Moussasoft SARL  
+FSA Ibn Zohr Agadir | Moussasoft   
 Juin 2026
 
 ---
