@@ -17,33 +17,19 @@ Solution automatisée et accessible pour réduire les pertes d'équipements hôt
 
 ---
 
-## 📁 Structure du Projet
-
-```
-RFID-UHF-Inventory-System/
-├── embedded/           # Firmware ESP32 (dual-core, FreeRTOS)
-├── mobile_app/         # Application Flutter (9 écrans)
-├── backend/            # API PHP + MySQL
-├── database/           # Script MySQL (users, types, tags, alerts)
-├── hardware/           # Schémas & PCB (EasyEDA)
-├── docs/               # Diagrammes & screenshots
-└── resources/          # Datasheets & références
-```
-
----
 
 ## 🚀 Installation Rapide
 
 ### **1. Firmware ESP32**
 ```bash
-git clone https://github.com/hajarmaichni/rfid-hotel-firmware.git
+git clone https://github.com/Hajar-MAICHNI1/RFID-UHF-Inventory-System.git
 cd embedded/
 pio run -t upload
 ```
 
 ### **2. App Flutter**
 ```bash
-git clone https://github.com/hajarmaichni/rfid-hotel-flutter.git
+git clone https://github.com/Hajar-MAICHNI1/RFID-UHF-Inventory-System.git
 cd mobile_app/
 flutter pub get && flutter run
 ```
@@ -160,8 +146,6 @@ Tag → Query BD → Si VALIDE: LED verte | Si INVALIDE: LED rouge + alerte
 
 ## 📚 Documentation Complète
 
-- Rapport PFE complet : voir `docs/rapport.pdf`
-- Présentation soutenance : voir `docs/presentation.pdf`
 - Architecture détaillée : voir `docs/architecture/`
 
 ---
@@ -177,9 +161,9 @@ Juin 2026
 
 ## 📞 Contact
 
-- 📧 hajar.maichni@example.com
-- 🔗 LinkedIn: linkedin.com/in/hajar-maichni
-- 💻 GitHub: github.com/hajarmaichni
+- 📧 hajar.maichni01@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/hajar-maichni-039669340
+- 💻 GitHub: github.com/Hajar-MAICHNI1
 
 ---
 
